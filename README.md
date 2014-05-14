@@ -5,7 +5,7 @@ OKCoin
 ----
 >显示当天收集的OKCoin记录而已
 
-[点这里看效果](kejt.cn/ltc)
+[点这里看效果](http://kejt.cn/ltc)
 
 jd
 ----
